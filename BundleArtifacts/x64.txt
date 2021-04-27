@@ -1,0 +1,2 @@
+MainPackage=C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x64\Release\CNG Matvisare v2_1.0.0.0_x64.msix
+SymbolPackage=C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\obj\x64\Release\Symbols\CNG Matvisare v2_1.0.0.0_x64.appxsym

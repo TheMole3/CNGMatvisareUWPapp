@@ -1,0 +1,6 @@
+MainPackage=C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\ARM\Release\CNG Matvisare v2_1.0.0.0_ARM.msix
+SymbolPackage=C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\obj\ARM\Release\Symbols\CNG Matvisare v2_1.0.0.0_ARM.appxsym
+ResourcePack=C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\ARM\Release\CNG Matvisare v2_1.0.0.0_scale-100.msix
+ResourcePack=C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\ARM\Release\CNG Matvisare v2_1.0.0.0_scale-125.msix
+ResourcePack=C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\ARM\Release\CNG Matvisare v2_1.0.0.0_scale-150.msix
+ResourcePack=C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\ARM\Release\CNG Matvisare v2_1.0.0.0_scale-400.msix

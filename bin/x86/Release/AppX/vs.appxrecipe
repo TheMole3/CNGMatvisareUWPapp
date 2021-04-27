@@ -1,0 +1,422 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>CNGW20143</Machine>
+    <WindowsUser>te20ha3</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>ca675a79-af94-404e-ae22-061d1287e222</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Hugo Arnlund</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\obj\x86\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\AppX</LayoutDir>
+    <RegisteredManifestChecksum>083E31A83684375BF7EFF3A94BC047587941ED53F43F315CDFDEB6A075CC080C</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>ca675a79-af94-404e-ae22-061d1287e222_1.0.0.0_x86__27e80zfqe4x8c</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>ca675a79-af94-404e-ae22-061d1287e222_27e80zfqe4x8c!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>ca675a79-af94-404e-ae22-061d1287e222</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Hugo Arnlund</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T15:03:39.242</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\LargeTile.scale-100.png">
+      <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T14:41:32.677</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\LargeTile.scale-125.png">
+      <PackagePath>Assets\LargeTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T14:41:32.714</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\LargeTile.scale-150.png">
+      <PackagePath>Assets\LargeTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T14:41:32.767</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\LargeTile.scale-200.png">
+      <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T14:41:32.858</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\LargeTile.scale-400.png">
+      <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T14:41:33.048</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2020-09-25T15:11:16.384</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\SmallTile.scale-100.png">
+      <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T14:41:32.107</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\SmallTile.scale-125.png">
+      <PackagePath>Assets\SmallTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T14:41:32.121</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\SmallTile.scale-150.png">
+      <PackagePath>Assets\SmallTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T14:41:32.134</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\SmallTile.scale-200.png">
+      <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T14:41:32.149</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\SmallTile.scale-400.png">
+      <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T14:41:32.184</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T14:41:33.343</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\SplashScreen.scale-125.png">
+      <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T14:41:33.383</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\SplashScreen.scale-150.png">
+      <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T14:41:33.480</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T14:41:33.623</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\SplashScreen.scale-400.png">
+      <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T14:41:33.980</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-100.png">
+      <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T14:41:32.213</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-125.png">
+      <PackagePath>Assets\Square150x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T14:41:32.247</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-150.png">
+      <PackagePath>Assets\Square150x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T14:41:32.285</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T14:41:32.333</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-400.png">
+      <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T14:41:32.457</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\Square44x44Logo.altform-lightunplated_targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T14:41:33.244</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\Square44x44Logo.altform-lightunplated_targetsize-24.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T14:41:33.257</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\Square44x44Logo.altform-lightunplated_targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T14:41:33.312</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\Square44x44Logo.altform-lightunplated_targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T14:41:33.269</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\Square44x44Logo.altform-lightunplated_targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T14:41:33.282</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T14:41:33.171</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T14:41:33.229</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\Square44x44Logo.altform-unplated_targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T14:41:33.191</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T14:41:33.203</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-100.png">
+      <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T14:41:33.056</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-125.png">
+      <PackagePath>Assets\Square44x44Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T14:41:33.066</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-150.png">
+      <PackagePath>Assets\Square44x44Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T14:41:33.076</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T14:41:33.085</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-400.png">
+      <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T14:41:33.099</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T14:41:33.107</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-24.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T14:41:33.116</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T14:41:33.181</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T14:41:33.159</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T14:41:33.125</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T14:41:33.136</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T14:41:33.990</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\StoreLogo.scale-125.png">
+      <PackagePath>Assets\StoreLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T14:41:34.001</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\StoreLogo.scale-150.png">
+      <PackagePath>Assets\StoreLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T14:41:34.012</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\StoreLogo.scale-200.png">
+      <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T14:41:34.027</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\StoreLogo.scale-400.png">
+      <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T14:41:34.051</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T14:41:32.477</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-125.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T14:41:32.498</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-150.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T14:41:32.522</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T14:41:32.557</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-400.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-26T14:41:32.653</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\clrcompression.dll">
+      <PackagePath>clrcompression.dll</PackagePath>
+      <Modified>2020-02-27T17:15:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\CNG Matvisare v2.dll">
+      <PackagePath>CNG Matvisare v2.dll</PackagePath>
+      <Modified>2021-04-26T15:03:39.045</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\CNG Matvisare v2.exe">
+      <PackagePath>CNG Matvisare v2.exe</PackagePath>
+      <Modified>2021-04-26T15:03:39.234</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\CNG Matvisare v2.pdb">
+      <PackagePath>CNG Matvisare v2.pdb</PackagePath>
+      <Modified>2021-04-26T15:03:39.232</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\te20ha3\source\repos\CNG Matvisare v2\CNG Matvisare v2\bin\x86\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2021-04-26T15:03:24.505</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.7-rel-28605-00\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx">
+      <Name>Microsoft.NET.Native.Framework.2.2</Name>
+      <Version>2.2.27912.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.2, MinVersion = 2.2.27912.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.7-rel-28605-00\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.2.7-rel-28605-00\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx">
+      <Name>Microsoft.NET.Native.Framework.2.2</Name>
+      <Version>2.2.27912.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.2, MinVersion = 2.2.27912.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.2.7-rel-28605-00\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm64.microsoft.net.native.sharedlibrary\2.2.7-rel-28605-00\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx">
+      <Name>Microsoft.NET.Native.Framework.2.2</Name>
+      <Version>2.2.27912.0</Version>
+      <Architecture>arm64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.2, MinVersion = 2.2.27912.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm64.microsoft.net.native.sharedlibrary\2.2.7-rel-28605-00\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.native.sharedlibrary\2.2.7-rel-28605-00\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx">
+      <Name>Microsoft.NET.Native.Framework.2.2</Name>
+      <Version>2.2.27912.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.2, MinVersion = 2.2.27912.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.native.sharedlibrary\2.2.7-rel-28605-00\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.compiler\2.2.8-rel-28605-00\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.2.2.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.2</Name>
+      <Version>2.2.28604.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.2, MinVersion = 2.2.28604.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.compiler\2.2.8-rel-28605-00\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.compiler\2.2.8-rel-28605-00\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.2.2.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.2</Name>
+      <Version>2.2.28604.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.2, MinVersion = 2.2.28604.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.compiler\2.2.8-rel-28605-00\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm64.microsoft.net.native.compiler\2.2.8-rel-28605-00\build\..\tools\Runtime\arm64\Microsoft.NET.Native.Runtime.2.2.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.2</Name>
+      <Version>2.2.28604.0</Version>
+      <Architecture>arm64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.2, MinVersion = 2.2.28604.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm64.microsoft.net.native.compiler\2.2.8-rel-28605-00\build\..\tools\Runtime\arm64\Microsoft.NET.Native.Runtime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.native.compiler\2.2.8-rel-28605-00\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.2.2.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.2</Name>
+      <Version>2.2.28604.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.2, MinVersion = 2.2.28604.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.native.compiler\2.2.8-rel-28605-00\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM64\Microsoft.VCLibs.ARM64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
